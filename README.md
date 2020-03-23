@@ -1,0 +1,1 @@
+# Univariate-HAR-RV-q-p-Model
