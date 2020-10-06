@@ -2,6 +2,11 @@
 
 This is a Monte-Carlo study of the "A note on the asymptotic normality theory of the least squares estimates in multivariate HAR-RV models" paper, ~~submitted for MDPI 2020~~.
 
+Won-Tak Hong1, Jiwon Lee2, and Eunju Hwang2,*
+- 1 College of International Studies, KyungHee University; wontak@khu.ac.kr
+- 2 Dept. of Applied Statistics, Gachon University; zzwon1212@gmail.com, ehwang@gachon.ac.kr
+- * Correspondence: ehwang@gachon.ac.kr; Tel.: +82-31-750-5373
+
 ![image](https://user-images.githubusercontent.com/61040406/95170412-5a63cc00-07ef-11eb-82ec-9295e7f7d77b.png)
 ![image](https://user-images.githubusercontent.com/61040406/95170444-66e82480-07ef-11eb-818e-71a0b1574ebc.png)
 ![image](https://user-images.githubusercontent.com/61040406/95169998-b8dc7a80-07ee-11eb-91b7-f19e013d2d1a.png)
